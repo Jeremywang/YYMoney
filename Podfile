@@ -1,0 +1,18 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'AFOnoResponseSerializer'
+pod 'SDWebImage'
+pod 'SSKeychain'
+pod 'ReactiveCocoa'
+pod 'GPUImage'
+pod 'MBProgressHUD'
+pod 'RESideMenu'
+pod 'Reachability'
+pod 'TTTAttributedLabel'
+pod 'GRMustache'
+pod 'TOWebViewController'
+pod 'MJRefresh'
+pod 'WeiboSDK', :git => 'https://github.com/sinaweibosdk/weibo_ios_sdk'
+pod 'TBXML'
